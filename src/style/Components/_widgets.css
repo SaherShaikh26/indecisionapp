@@ -1,0 +1,26 @@
+.widget{
+    background: #464b5e;
+    margin-bottom: 4.8rem;
+}
+
+.widget-header{
+    background: #3c4251;
+    color:  #a5afd7;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+
+}
+.widget-header__title{
+    margin:0;
+}
+
+.message{
+    color: #a5afd7;
+    padding: 1.5rem;
+    margin:none;
+    text-align: center;
+    border-bottom: 1px solid #505463;
+    padding: 3.2rem;
+    
+}
